@@ -7,7 +7,7 @@ print(a[::-1])
 print(a[::2])'''
 
 a=str(input('enter the item :'))
-b=int(input('enter the price :'))
+b=int(input('enter the price yo :'))
 print(f"""item is {a} 
 and 
 its price is {b}""")
